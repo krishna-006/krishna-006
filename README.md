@@ -1,12 +1,21 @@
-# Hi, I'm Krishna B 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=KRISHNA%20B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+
+<img width="2172" height="724" alt="269595cd-783e-4db9-8be6-e157de63c693" src="https://github.com/user-attachments/assets/d0c77761-b98b-49c1-b5d2-fb841beeb874" />
+
+
+ Krishna B
+
 ### AI/ML Engineering Student • Python Developer • AI Enthusiast
 
 
 
 ## 👨‍💻 About Me
+
+
+<p align="center">
+  AI/ML Engineering Student • Python Developer • AI Enthusiast
+</p>
+
+
 
 I'm a Computer Science student specializing in Artificial Intelligence
 and Machine Learning.
