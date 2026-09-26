@@ -4,9 +4,7 @@
 </p>
 ### AI/ML Engineering Student • Python Developer • AI Enthusiast
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=180&section=header&text=Krishna%20B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+
 
 ## 👨‍💻 About Me
 
