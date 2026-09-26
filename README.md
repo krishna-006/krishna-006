@@ -4,7 +4,7 @@
 
  Krishna B
 
-### AI/ML Engineering Student • Python Developer • AI Enthusiast
+### AI/ML Engineering Student • Python Developer • 
 
 
 
