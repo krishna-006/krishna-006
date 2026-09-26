@@ -1,5 +1,7 @@
 # Hi, I'm Krishna B 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=KRISHNA%20B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 ### AI/ML Engineering Student • Python Developer • AI Enthusiast
 
 <p align="center">
@@ -23,19 +25,33 @@ and Machine Learning.
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
 </p>
+## 📚 Currently Learning
 
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 🐍 Python for AI/ML
+- 🌐 Building AI-powered applications
 ### Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,opencv,tensorflow" />
 </p>
 
-## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| 🍜 Idiyappam Path Finder | Computer vision based project |
-| 🤖 Bank Saathi AI | AI-powered multilingual banking assistant |
-| 🌱 Farmora | AI-based agriculture assistant |
+
+## 🚀 Featured Projects
+
+### 🤖 Bank Saathi AI
+A multilingual AI-powered voice assistant designed to make banking services more accessible and user-friendly.
+
+### 🍜 AI-Enhanced Idiyappam Path Finder
+A computer-vision project exploring image processing and path detection using OpenCV.
+
+### 🌱 Farmora
+An AI-based agriculture assistant focused on crop-related recommendations and intelligent assistance.
+
+### 🍱 Mealza
+An AI-powered food-waste marketplace concept designed to connect surplus food with potential users.
 
 ## 🎓 Education
 
